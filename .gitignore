@@ -1,0 +1,6 @@
+node_modules
+dist
+var/log/*.ndjson
+var/metrics/*.prom
+coverage
+.DS_Store
