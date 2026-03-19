@@ -13,13 +13,26 @@
     "test": "vitest run",
     "cli": "node ./bin/auth-sdk help"
   },
-  "keywords": ["auth", "oauth", "blackcat"],
+  "keywords": [
+    "auth",
+    "oauth",
+    "blackcat"
+  ],
   "author": "BlackCat",
-  "license": "UNLICENSED",
+  "license": "SEE LICENSE IN LICENSE",
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^20.14.8",
     "typescript": "^5.4.5",
     "vitest": "^1.6.0"
-  }
+  },
+  "homepage": "https://github.com/Vito416/blackcat-darkmesh-ao/blob/main/docs/BFNL-1.0.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vito416/blackcat-auth-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vito416/blackcat-auth-js/issues"
+  },
+  "blackcatLicense": "BFNL-1.0"
 }
